@@ -1,0 +1,9 @@
+*.csv
+!results/*.csv
+.venv/
+__pycache__/
+*.pyc
+figs/
+*.tif
+.DS_Store
+Thumbs.db

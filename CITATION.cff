@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper below."
+title: "Probe-set signature instability across five feature selection algorithms"
+abstract: >-
+  Analysis code and complete numerical results for a comparative benchmark of five feature
+  selection algorithms applied to two curated leukemia microarray cohorts, quantifying both
+  within-method stability under resampling and between-method agreement.
+authors:
+  - family-names: Singh
+    given-names: Chintan
+    affiliation: "Amity Institute of Forensic Sciences, Amity University, Noida, India"
+  - family-names: Majji
+    given-names: Sai Sudha Rani
+    affiliation: "Amity Institute of Forensic Sciences, Amity University, Noida, India"
+    email: mssrani@amity.edu
+  - family-names: Singh
+    given-names: Shilpy
+    affiliation: "Noida International University, Greater Noida, India"
+  - family-names: Chaudhary
+    given-names: Prawar
+    affiliation: "Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia"
+license: MIT
+keywords:
+  - feature selection
+  - algorithmic stability
+  - reproducibility
+  - gene expression
+  - acute lymphoblastic leukemia
+  - machine learning
+preferred-citation:
+  type: article
+  title: >-
+    Quantifying probe-set signature instability across five feature selection algorithms in
+    curated leukemia microarray cohorts: a comparative benchmark
+  journal: "Gene Expression"
+  year: 2026
+  authors:
+    - family-names: Singh
+      given-names: Chintan
+    - family-names: Majji
+      given-names: Sai Sudha Rani
+    - family-names: Singh
+      given-names: Shilpy
+    - family-names: Chaudhary
+      given-names: Prawar
