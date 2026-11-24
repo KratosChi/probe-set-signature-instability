@@ -1,0 +1,22 @@
+{
+ "spearman_stab_bacc": [
+  -0.7,
+  0.1881204043741873
+ ],
+ "spearman_stab_f1": [
+  -0.49999999999999994,
+  0.3910022189557703
+ ],
+ "wilcoxon_best_worst": [
+  38.0,
+  0.22930908203125,
+  "RF",
+  "mRMR"
+ ],
+ "wilcoxon_moststable_leaststable": [
+  42.0,
+  0.33026123046875
+ ],
+ "bacc_spread": 0.023678966536109236,
+ "stab_spread": 0.34072089423368634
+}
